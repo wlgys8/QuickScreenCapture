@@ -1,0 +1,9 @@
+{
+  "name": "com.ms.quickcapture",
+  "displayName": "Quick Screen Capture",
+  "version": "0.0.1",
+  "description": "Quick Screen Capture",
+  "keywords": [
+    "unity","screen capture"
+  ]
+}
