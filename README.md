@@ -23,7 +23,7 @@ Click Window->QuickScreenCapture to open the window.
 
 You can config multiple output dirs and select anyone to store the captured screen pics.
 
-![s1.png](https://i.loli.net/2020/01/19/KjsPEBF3u7G2m1S.jpg)
+<img src="https://i.loli.net/2020/01/19/KjsPEBF3u7G2m1S.jpg" width=400/>
 
 # Hot Key
 
